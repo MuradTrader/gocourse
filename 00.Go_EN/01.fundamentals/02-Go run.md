@@ -14,3 +14,11 @@ If these terms (compilation, binary, HDD/SSD, RAM) don’t mean anything to you 
 
 > **The author says:**
 > “Why do we use `go run` when we could simply run `go build`? It’s simple. `go build` creates a ‘permanent’ program (a binary), whereas `go run` creates a ‘temporary’ program, immediately runs it, and doesn’t leave anything on the disk.
+
+### 1.1. A Brief Overview of «Permanent» and «Temporary» Binaries
+
+1. **`go build` (permanent binary)**
+
+- When you run `go build`, the Go utility reads your files with the `.go` extension (source files), converts them into machine code (instructions for the processor), and writes the resulting file (called a «binary») next to your source files (usually in the same folder).
+
+- This file remains on the disk until you delete it. When you run such a program again, no recompilation is needed — you simply launch the already compiled program.
