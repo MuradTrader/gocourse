@@ -32,7 +32,7 @@ If these terms (compilation, binary, HDD/SSD, RAM) don’t mean anything to you 
 - As soon as the compiled program finishes its execution, Go automatically deletes this temporary file. In the directory with your `.go` source files, nothing remains except the source files themselves.
 
 <details>
-  <summary><b>📖 Подробное разборное объяснение (кликни)
+  <summary><b>📖 Подробное разборное объяснение (кликни)</b></summary>
 
 ## Заголовок
 
