@@ -32,7 +32,7 @@ If these terms (compilation, binary, HDD/SSD, RAM) don’t mean anything to you 
 - As soon as the compiled program finishes its execution, Go automatically deletes this temporary file. In the directory with your `.go` source files, nothing remains except the source files themselves.
 
 <details>
-  <summary><b>📖 Подробное разборное объяснение (кликни)</b></summary>
+  <summary><b>📖 Подробное разборное объяснение (кликни)
 
 ## Заголовок
 
@@ -259,6 +259,8 @@ If these terms (compilation, binary, HDD/SSD, RAM) don’t mean anything to you 
 
 ---
 
+</details>
+
 ---
 
 ### **Why are “persistent” and “temporary” important?**
@@ -277,12 +279,6 @@ If these terms (compilation, binary, HDD/SSD, RAM) don’t mean anything to you 
 
 <details>
   <summary><b>📖 Подробное разборное объяснение (кликни)</b></summary>
-
-Отлично, спасибо, что сказал прямо 👍
-Значит делаем **максимально медленно, пошагово и с грамматикой**, как для человека, который **реально учит язык с нуля через IT-тексты**.
-Я не буду «умничать», а объясню **каждую строчку так, чтобы ты понял логику**, а не заучивал.
-
----
 
 # 1️⃣ Заголовок — разбор ПО СЛОВАМ и ПО ПОРЯДКУ
 
@@ -695,3 +691,5 @@ If these terms (compilation, binary, HDD/SSD, RAM) don’t mean anything to you 
 - **Present Perfect** = уже сделал
 
 ---
+
+</details>
